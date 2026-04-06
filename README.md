@@ -1,3 +1,4 @@
+[Open in colab](https://github/Nirav-17/options-pricing-and-strategy-engine/blob/main/Option_strategy_engine%20(2).ipynb)
 # options-pricing-and-strategy-engine
 A quantitative options trading framework that prices derivatives using the Black-Scholes model and allows users to construct and evaluate multi-leg options strategies through backtesting.
 The system calculates theoretical option prices and uses them to simulate multi-leg strategies such as spreads, straddles, and iron condors.
